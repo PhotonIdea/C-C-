@@ -19,7 +19,8 @@ main.c
 #include <stdlib.h>
 #include <malloc.h>
 #include <string.h>
-'''int main()
+
+```int main()
 {
     int *prarr,*mark;
     int n=0;
@@ -47,6 +48,7 @@ main.c
         putchar('\n');//一组结束
     }
     return 0;
-}'''
+}
+```
 
 
