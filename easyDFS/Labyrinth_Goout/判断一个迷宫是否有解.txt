@@ -10,7 +10,7 @@ Sample Input
 S***T
 Sample Output
 yes
---------------------------------
+-------------------------------
 Sample Input
 2 7
 S**#**T
